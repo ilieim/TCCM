@@ -1,5 +1,5 @@
 # TCCM
-PEG tutorial on coarse-grainig
+PEG tutorial on coarse-graining
 
 Demo simulations for coarse grained polymer models using LAMMPS.
 
